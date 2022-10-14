@@ -2,6 +2,7 @@
 	"name": "sveltekit-demo",
 	"version": "0.2",
 	"scripts": {
+		"start":"node build/index.js",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
